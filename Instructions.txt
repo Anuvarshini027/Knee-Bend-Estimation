@@ -1,0 +1,11 @@
+You can install the required libraries using the following commands:
+!pip install mediapipe opencv-python
+!pip install numpy
+
+To run the code, save the video file "KneeBend.mp4" and the "code_file.ipynb" in 
+the same directory.
+
+The video file is large and thus could not upload it directly. Here is the link for the full video:
+https://drive.google.com/file/d/1KFHllDCLykkTyCRmnKPmeBL_fvw8cS3T/view?usp=sharing
+
+Thank You!
